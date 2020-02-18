@@ -1,0 +1,19 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92
+libOpenGL:     /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/OpenGL.framework/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/OpenGL.framework
+libGLEW:       /Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/Libs/ASGE/lib/osx/libGLEWd.a
+libGLFW:       /Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/Libs/ASGE/lib/osx/libglfw3d.a
+libFreetype:   /Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/Libs/ASGE/lib/osx/libfreetyped.a
+libPhysFS:     /Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/Libs/ASGE/lib/osx/libphysfsd.a
+libPhysFS++:   /Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/Libs/ASGE/lib/osx/libphysfscppd.a
+libGameEngine: /Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/Libs/ASGE/lib/osx/libGameEngined.a
+IOKit:        /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/IOKit.framework
+Cocoa:        /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Cocoa.framework
+CoreVideo:    /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreVideo.framework
+d9d2892913972ee3cc2fcf30fccc1219
+d9d2892913972ee3cc2fcf30fccc1219
+ClangFormat   CFE-NOTFOUND
+No itch.io user has been specified: disabling itch build targets
+PLEASE INSTALL PYTHON TO ALLOW BUILD SCRIPTS TO FUNCTION CORRECTLY
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/cmake-build-debug

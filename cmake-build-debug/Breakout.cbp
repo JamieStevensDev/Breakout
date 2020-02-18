@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Breakout"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\CMake\;CMake Files\Libs\;CMake Files\CI\;CMake Files\CI\datpak\;CMake Files\CI\datpak\Hooks\;CMake Files\CI\datpak\Configs\;CMake Files\CI\datpak\CMake\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Breakout">
+				<Option output="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/cmake-build-debug/bin/Breakout" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/Source"/>
+					<Add directory="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/Libs/ASGE/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/cmake-build-debug/Makefile&quot;  VERBOSE=1 Breakout"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Breakout/fast">
+				<Option output="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/cmake-build-debug/bin/Breakout" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/Source"/>
+					<Add directory="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/Libs/ASGE/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/cmake-build-debug/Makefile&quot;  VERBOSE=1 Breakout/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Breakout+GameData">
+				<Option working_dir="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/cmake-build-debug/CI/datpak/CMake"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/cmake-build-debug/CI/datpak/CMake/Makefile&quot;  VERBOSE=1 Breakout+GameData"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/cmake-build-debug/CI/datpak/CMake/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/cmake-build-debug/CI/datpak/CMake/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/cmake-build-debug/CI/datpak/CMake/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/Source/Components/GameObject.cpp">
+			<Option target="Breakout"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/Source/Components/GameObject.h">
+			<Option target="Breakout"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/Source/Components/SpriteComponent.cpp">
+			<Option target="Breakout"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/Source/Components/SpriteComponent.h">
+			<Option target="Breakout"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/Source/Game.cpp">
+			<Option target="Breakout"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/Source/Game.h">
+			<Option target="Breakout"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/Source/Utility/Rect.cpp">
+			<Option target="Breakout"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/Source/Utility/Rect.h">
+			<Option target="Breakout"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/Source/Utility/Vector2.cpp">
+			<Option target="Breakout"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/Source/Utility/Vector2.h">
+			<Option target="Breakout"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/Source/main.cpp">
+			<Option target="Breakout"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/CMake/compilation.cmake">
+			<Option virtualFolder="CMake Files\CMake\"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/CMake/datpak.cmake">
+			<Option virtualFolder="CMake Files\CMake\"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/CMake/platform.cmake">
+			<Option virtualFolder="CMake Files\CMake\"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/Libs/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Libs\"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/CI/datpak/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\CI\datpak\"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/CI/datpak/Hooks/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\CI\datpak\Hooks\"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/CI/datpak/Configs/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\CI\datpak\Configs\"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/CI/datpak/CMake/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\CI\datpak\CMake\"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/CI/datpak/CMake/astyle.cmake">
+			<Option virtualFolder="CMake Files\CI\datpak\CMake\"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/CI/datpak/CMake/clang.format.cmake">
+			<Option virtualFolder="CMake Files\CI\datpak\CMake\"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/CI/datpak/CMake/flags.cmake">
+			<Option virtualFolder="CMake Files\CI\datpak\CMake\"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/CI/datpak/CMake/itch.io.cmake">
+			<Option virtualFolder="CMake Files\CI\datpak\CMake\"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/CI/datpak/CMake/python.cmake">
+			<Option virtualFolder="CMake Files\CI\datpak\CMake\"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/CI/datpak/CMake/soloud.cmake">
+			<Option virtualFolder="CMake Files\CI\datpak\CMake\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

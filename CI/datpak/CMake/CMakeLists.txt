@@ -1,0 +1,6 @@
+include(astyle.cmake)
+include(clang.format.cmake)
+include(flags.cmake)
+include(itch.io.cmake)
+include(python.cmake)
+include(soloud.cmake)

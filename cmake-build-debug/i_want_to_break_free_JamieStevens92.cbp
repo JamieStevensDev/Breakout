@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="i_want_to_break_free_JamieStevens92"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="i_want_to_break_free_JamieStevens92">
+				<Option output="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/cmake-build-debug/i_want_to_break_free_JamieStevens92" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/."/>
+					<Add directory="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/CMake"/>
+					<Add directory="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/GameData"/>
+					<Add directory="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/Libs"/>
+					<Add directory="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/Libs/ASGE"/>
+					<Add directory="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/Libs/ASGE/include"/>
+					<Add directory="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/Libs/ASGE/include/Engine"/>
+					<Add directory="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/Source"/>
+					<Add directory="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/Source/Components"/>
+					<Add directory="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/Source/Utility"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/cmake-build-debug/Makefile&quot;  VERBOSE=1 i_want_to_break_free_JamieStevens92"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="i_want_to_break_free_JamieStevens92/fast">
+				<Option output="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/cmake-build-debug/i_want_to_break_free_JamieStevens92" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/."/>
+					<Add directory="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/CMake"/>
+					<Add directory="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/GameData"/>
+					<Add directory="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/Libs"/>
+					<Add directory="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/Libs/ASGE"/>
+					<Add directory="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/Libs/ASGE/include"/>
+					<Add directory="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/Libs/ASGE/include/Engine"/>
+					<Add directory="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/Source"/>
+					<Add directory="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/Source/Components"/>
+					<Add directory="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/Source/Utility"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/cmake-build-debug/Makefile&quot;  VERBOSE=1 i_want_to_break_free_JamieStevens92/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/.clang-format">
+			<Option target="i_want_to_break_free_JamieStevens92"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/.gitignore">
+			<Option target="i_want_to_break_free_JamieStevens92"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/.oclint">
+			<Option target="i_want_to_break_free_JamieStevens92"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/.travis.yml">
+			<Option target="i_want_to_break_free_JamieStevens92"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/CMake/compilation.cmake">
+			<Option target="i_want_to_break_free_JamieStevens92"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/CMake/datpak.cmake">
+			<Option target="i_want_to_break_free_JamieStevens92"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/CMake/platform.cmake">
+			<Option target="i_want_to_break_free_JamieStevens92"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/CMakeLists.txt">
+			<Option target="i_want_to_break_free_JamieStevens92"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/GameData/Textures/puzzlepack/png/ballBlue.png">
+			<Option target="i_want_to_break_free_JamieStevens92"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/GameData/Textures/puzzlepack/png/ballGrey.png">
+			<Option target="i_want_to_break_free_JamieStevens92"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/GameData/Textures/puzzlepack/png/buttonDefault.png">
+			<Option target="i_want_to_break_free_JamieStevens92"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/GameData/Textures/puzzlepack/png/buttonDefault_bottom.png">
+			<Option target="i_want_to_break_free_JamieStevens92"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/GameData/Textures/puzzlepack/png/buttonDefault_bottomleft.png">
+			<Option target="i_want_to_break_free_JamieStevens92"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/GameData/Textures/puzzlepack/png/buttonDefault_bottomright.png">
+			<Option target="i_want_to_break_free_JamieStevens92"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/GameData/Textures/puzzlepack/png/buttonDefault_left.png">
+			<Option target="i_want_to_break_free_JamieStevens92"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/GameData/Textures/puzzlepack/png/buttonDefault_mid.png">
+			<Option target="i_want_to_break_free_JamieStevens92"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/GameData/Textures/puzzlepack/png/buttonDefault_right.png">
+			<Option target="i_want_to_break_free_JamieStevens92"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/GameData/Textures/puzzlepack/png/buttonDefault_top.png">
+			<Option target="i_want_to_break_free_JamieStevens92"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/GameData/Textures/puzzlepack/png/buttonDefault_topleft.png">
+			<Option target="i_want_to_break_free_JamieStevens92"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/GameData/Textures/puzzlepack/png/buttonDefault_topright.png">
+			<Option target="i_want_to_break_free_JamieStevens92"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/GameData/Textures/puzzlepack/png/buttonSelected.png">
+			<Option target="i_want_to_break_free_JamieStevens92"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/GameData/Textures/puzzlepack/png/buttonSelected_bottom.png">
+			<Option target="i_want_to_break_free_JamieStevens92"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/GameData/Textures/puzzlepack/png/buttonSelected_bottomleft.png">
+			<Option target="i_want_to_break_free_JamieStevens92"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/GameData/Textures/puzzlepack/png/buttonSelected_bottomright.png">
+			<Option target="i_want_to_break_free_JamieStevens92"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/GameData/Textures/puzzlepack/png/buttonSelected_left.png">
+			<Option target="i_want_to_break_free_JamieStevens92"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/GameData/Textures/puzzlepack/png/buttonSelected_mid.png">
+			<Option target="i_want_to_break_free_JamieStevens92"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/GameData/Textures/puzzlepack/png/buttonSelected_right.png">
+			<Option target="i_want_to_break_free_JamieStevens92"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/GameData/Textures/puzzlepack/png/buttonSelected_top.png">
+			<Option target="i_want_to_break_free_JamieStevens92"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/GameData/Textures/puzzlepack/png/buttonSelected_topleft.png">
+			<Option target="i_want_to_break_free_JamieStevens92"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/GameData/Textures/puzzlepack/png/buttonSelected_topright.png">
+			<Option target="i_want_to_break_free_JamieStevens92"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/GameData/Textures/puzzlepack/png/element_blue_diamond.png">
+			<Option target="i_want_to_break_free_JamieStevens92"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/GameData/Textures/puzzlepack/png/element_blue_diamond_glossy.png">
+			<Option target="i_want_to_break_free_JamieStevens92"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/GameData/Textures/puzzlepack/png/element_blue_polygon.png">
+			<Option target="i_want_to_break_free_JamieStevens92"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/GameData/Textures/puzzlepack/png/element_blue_polygon_glossy.png">
+			<Option target="i_want_to_break_free_JamieStevens92"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/GameData/Textures/puzzlepack/png/element_blue_rectangle.png">
+			<Option target="i_want_to_break_free_JamieStevens92"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/GameData/Textures/puzzlepack/png/element_blue_rectangle_glossy.png">
+			<Option target="i_want_to_break_free_JamieStevens92"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/GameData/Textures/puzzlepack/png/element_blue_square.png">
+			<Option target="i_want_to_break_free_JamieStevens92"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/GameData/Textures/puzzlepack/png/element_blue_square_glossy.png">
+			<Option target="i_want_to_break_free_JamieStevens92"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/GameData/Textures/puzzlepack/png/element_green_diamond.png">
+			<Option target="i_want_to_break_free_JamieStevens92"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/GameData/Textures/puzzlepack/png/element_green_diamond_glossy.png">
+			<Option target="i_want_to_break_free_JamieStevens92"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/GameData/Textures/puzzlepack/png/element_green_polygon.png">
+			<Option target="i_want_to_break_free_JamieStevens92"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/GameData/Textures/puzzlepack/png/element_green_polygon_glossy.png">
+			<Option target="i_want_to_break_free_JamieStevens92"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/GameData/Textures/puzzlepack/png/element_green_rectangle.png">
+			<Option target="i_want_to_break_free_JamieStevens92"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/GameData/Textures/puzzlepack/png/element_green_rectangle_glossy.png">
+			<Option target="i_want_to_break_free_JamieStevens92"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/GameData/Textures/puzzlepack/png/element_green_square.png">
+			<Option target="i_want_to_break_free_JamieStevens92"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/GameData/Textures/puzzlepack/png/element_green_square_glossy.png">
+			<Option target="i_want_to_break_free_JamieStevens92"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/GameData/Textures/puzzlepack/png/element_grey_diamond.png">
+			<Option target="i_want_to_break_free_JamieStevens92"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/GameData/Textures/puzzlepack/png/element_grey_diamond_glossy.png">
+			<Option target="i_want_to_break_free_JamieStevens92"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/GameData/Textures/puzzlepack/png/element_grey_polygon.png">
+			<Option target="i_want_to_break_free_JamieStevens92"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/GameData/Textures/puzzlepack/png/element_grey_polygon_glossy.png">
+			<Option target="i_want_to_break_free_JamieStevens92"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/GameData/Textures/puzzlepack/png/element_grey_rectangle.png">
+			<Option target="i_want_to_break_free_JamieStevens92"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/GameData/Textures/puzzlepack/png/element_grey_rectangle_glossy.png">
+			<Option target="i_want_to_break_free_JamieStevens92"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/GameData/Textures/puzzlepack/png/element_grey_square.png">
+			<Option target="i_want_to_break_free_JamieStevens92"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/GameData/Textures/puzzlepack/png/element_grey_square_glossy.png">
+			<Option target="i_want_to_break_free_JamieStevens92"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/GameData/Textures/puzzlepack/png/element_purple_cube_glossy.png">
+			<Option target="i_want_to_break_free_JamieStevens92"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/GameData/Textures/puzzlepack/png/element_purple_diamond.png">
+			<Option target="i_want_to_break_free_JamieStevens92"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/GameData/Textures/puzzlepack/png/element_purple_diamond_glossy.png">
+			<Option target="i_want_to_break_free_JamieStevens92"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/GameData/Textures/puzzlepack/png/element_purple_polygon.png">
+			<Option target="i_want_to_break_free_JamieStevens92"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/GameData/Textures/puzzlepack/png/element_purple_polygon_glossy.png">
+			<Option target="i_want_to_break_free_JamieStevens92"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/GameData/Textures/puzzlepack/png/element_purple_rectangle.png">
+			<Option target="i_want_to_break_free_JamieStevens92"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/GameData/Textures/puzzlepack/png/element_purple_rectangle_glossy.png">
+			<Option target="i_want_to_break_free_JamieStevens92"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/GameData/Textures/puzzlepack/png/element_purple_square.png">
+			<Option target="i_want_to_break_free_JamieStevens92"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/GameData/Textures/puzzlepack/png/element_red_diamond.png">
+			<Option target="i_want_to_break_free_JamieStevens92"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/GameData/Textures/puzzlepack/png/element_red_diamond_glossy.png">
+			<Option target="i_want_to_break_free_JamieStevens92"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/GameData/Textures/puzzlepack/png/element_red_polygon.png">
+			<Option target="i_want_to_break_free_JamieStevens92"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/GameData/Textures/puzzlepack/png/element_red_polygon_glossy.png">
+			<Option target="i_want_to_break_free_JamieStevens92"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/GameData/Textures/puzzlepack/png/element_red_rectangle.png">
+			<Option target="i_want_to_break_free_JamieStevens92"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/GameData/Textures/puzzlepack/png/element_red_rectangle_glossy.png">
+			<Option target="i_want_to_break_free_JamieStevens92"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/GameData/Textures/puzzlepack/png/element_red_square.png">
+			<Option target="i_want_to_break_free_JamieStevens92"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/GameData/Textures/puzzlepack/png/element_red_square_glossy.png">
+			<Option target="i_want_to_break_free_JamieStevens92"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/GameData/Textures/puzzlepack/png/element_yellow_diamond.png">
+			<Option target="i_want_to_break_free_JamieStevens92"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/GameData/Textures/puzzlepack/png/element_yellow_diamond_glossy.png">
+			<Option target="i_want_to_break_free_JamieStevens92"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/GameData/Textures/puzzlepack/png/element_yellow_polygon.png">
+			<Option target="i_want_to_break_free_JamieStevens92"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/GameData/Textures/puzzlepack/png/element_yellow_polygon_glossy.png">
+			<Option target="i_want_to_break_free_JamieStevens92"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/GameData/Textures/puzzlepack/png/element_yellow_rectangle.png">
+			<Option target="i_want_to_break_free_JamieStevens92"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/GameData/Textures/puzzlepack/png/element_yellow_rectangle_glossy.png">
+			<Option target="i_want_to_break_free_JamieStevens92"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/GameData/Textures/puzzlepack/png/element_yellow_square.png">
+			<Option target="i_want_to_break_free_JamieStevens92"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/GameData/Textures/puzzlepack/png/element_yellow_square_glossy.png">
+			<Option target="i_want_to_break_free_JamieStevens92"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/GameData/Textures/puzzlepack/png/paddleBlue.png">
+			<Option target="i_want_to_break_free_JamieStevens92"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/GameData/Textures/puzzlepack/png/paddleRed.png">
+			<Option target="i_want_to_break_free_JamieStevens92"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/GameData/Textures/puzzlepack/png/particleCartoonStar.png">
+			<Option target="i_want_to_break_free_JamieStevens92"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/GameData/Textures/puzzlepack/png/particleSmallStar.png">
+			<Option target="i_want_to_break_free_JamieStevens92"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/GameData/Textures/puzzlepack/png/particleStar.png">
+			<Option target="i_want_to_break_free_JamieStevens92"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/GameData/Textures/puzzlepack/png/selectorA.png">
+			<Option target="i_want_to_break_free_JamieStevens92"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/GameData/Textures/puzzlepack/png/selectorB.png">
+			<Option target="i_want_to_break_free_JamieStevens92"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/GameData/Textures/puzzlepack/png/selectorC.png">
+			<Option target="i_want_to_break_free_JamieStevens92"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/GameData/Textures/puzzlepack/preview.jpg">
+			<Option target="i_want_to_break_free_JamieStevens92"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/GameData/Textures/puzzlepack/puzzleGraphics.ai">
+			<Option target="i_want_to_break_free_JamieStevens92"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/GameData/Textures/puzzlepack/puzzleGraphics.svg">
+			<Option target="i_want_to_break_free_JamieStevens92"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/GameData/Textures/puzzlepack/puzzleGraphics.swf">
+			<Option target="i_want_to_break_free_JamieStevens92"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/GameData/Textures/puzzlepack/readme.txt">
+			<Option target="i_want_to_break_free_JamieStevens92"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/GameData/Textures/puzzlepack/sample.jpg">
+			<Option target="i_want_to_break_free_JamieStevens92"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/Libs/ASGE/include/Engine/Colours.h">
+			<Option target="i_want_to_break_free_JamieStevens92"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/Libs/ASGE/include/Engine/DebugPrinter.h">
+			<Option target="i_want_to_break_free_JamieStevens92"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/Libs/ASGE/include/Engine/Doxygen.h">
+			<Option target="i_want_to_break_free_JamieStevens92"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/Libs/ASGE/include/Engine/FileIO.h">
+			<Option target="i_want_to_break_free_JamieStevens92"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/Libs/ASGE/include/Engine/Font.h">
+			<Option target="i_want_to_break_free_JamieStevens92"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/Libs/ASGE/include/Engine/Game.h">
+			<Option target="i_want_to_break_free_JamieStevens92"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/Libs/ASGE/include/Engine/GameTime.h">
+			<Option target="i_want_to_break_free_JamieStevens92"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/Libs/ASGE/include/Engine/Gamepad.h">
+			<Option target="i_want_to_break_free_JamieStevens92"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/Libs/ASGE/include/Engine/Input.h">
+			<Option target="i_want_to_break_free_JamieStevens92"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/Libs/ASGE/include/Engine/InputEvents.h">
+			<Option target="i_want_to_break_free_JamieStevens92"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/Libs/ASGE/include/Engine/KeyIndex.h">
+			<Option target="i_want_to_break_free_JamieStevens92"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/Libs/ASGE/include/Engine/Keys.h">
+			<Option target="i_want_to_break_free_JamieStevens92"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/Libs/ASGE/include/Engine/Locator.h">
+			<Option target="i_want_to_break_free_JamieStevens92"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/Libs/ASGE/include/Engine/Mouse.h">
+			<Option target="i_want_to_break_free_JamieStevens92"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/Libs/ASGE/include/Engine/NonCopyable.h">
+			<Option target="i_want_to_break_free_JamieStevens92"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/Libs/ASGE/include/Engine/OGLGame.h">
+			<Option target="i_want_to_break_free_JamieStevens92"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/Libs/ASGE/include/Engine/Platform.h">
+			<Option target="i_want_to_break_free_JamieStevens92"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/Libs/ASGE/include/Engine/Point2D.h">
+			<Option target="i_want_to_break_free_JamieStevens92"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/Libs/ASGE/include/Engine/Renderer.h">
+			<Option target="i_want_to_break_free_JamieStevens92"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/Libs/ASGE/include/Engine/Shader.h">
+			<Option target="i_want_to_break_free_JamieStevens92"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/Libs/ASGE/include/Engine/Sprite.h">
+			<Option target="i_want_to_break_free_JamieStevens92"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/Libs/ASGE/include/Engine/SpriteBounds.h">
+			<Option target="i_want_to_break_free_JamieStevens92"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/Libs/ASGE/include/Engine/Texture.h">
+			<Option target="i_want_to_break_free_JamieStevens92"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/Libs/ASGE/include/Engine/Value.h">
+			<Option target="i_want_to_break_free_JamieStevens92"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/Libs/CMakeLists.txt">
+			<Option target="i_want_to_break_free_JamieStevens92"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/Libs/mingw64/bin/libgcc_s_seh-1.dll">
+			<Option target="i_want_to_break_free_JamieStevens92"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/Libs/mingw64/bin/libstdc++-6.dll">
+			<Option target="i_want_to_break_free_JamieStevens92"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/Libs/mingw64/bin/libwinpthread-1.dll">
+			<Option target="i_want_to_break_free_JamieStevens92"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/README.md">
+			<Option target="i_want_to_break_free_JamieStevens92"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/Source/Ball.cpp">
+			<Option target="i_want_to_break_free_JamieStevens92"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/Source/Ball.h">
+			<Option target="i_want_to_break_free_JamieStevens92"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/Source/Components/GameObject.cpp">
+			<Option target="i_want_to_break_free_JamieStevens92"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/Source/Components/GameObject.h">
+			<Option target="i_want_to_break_free_JamieStevens92"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/Source/Components/SpriteComponent.cpp">
+			<Option target="i_want_to_break_free_JamieStevens92"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/Source/Components/SpriteComponent.h">
+			<Option target="i_want_to_break_free_JamieStevens92"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/Source/Game.cpp">
+			<Option target="i_want_to_break_free_JamieStevens92"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/Source/Game.h">
+			<Option target="i_want_to_break_free_JamieStevens92"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/Source/Utility/Rect.cpp">
+			<Option target="i_want_to_break_free_JamieStevens92"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/Source/Utility/Rect.h">
+			<Option target="i_want_to_break_free_JamieStevens92"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/Source/Utility/Vector2.cpp">
+			<Option target="i_want_to_break_free_JamieStevens92"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/Source/Utility/Vector2.h">
+			<Option target="i_want_to_break_free_JamieStevens92"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/Source/main.cpp">
+			<Option target="i_want_to_break_free_JamieStevens92"/>
+		</Unit>
+		<Unit filename="/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
