@@ -1,19 +1,135 @@
-/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/jamie/portfolio/Breakout
+-- The C compiler identification is AppleClang 10.0.0.10001145
+-- The CXX compiler identification is AppleClang 10.0.0.10001145
+-- Check for working C compiler: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc
+-- Check for working C compiler: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -- works
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Check for working CXX compiler: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++
+-- Check for working CXX compiler: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -- works
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found OpenGL: /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/OpenGL.framework   
 libOpenGL:     /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/OpenGL.framework/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/OpenGL.framework
-libGLEW:       /Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/Libs/ASGE/lib/osx/libGLEWd.a
-libGLFW:       /Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/Libs/ASGE/lib/osx/libglfw3d.a
-libFreetype:   /Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/Libs/ASGE/lib/osx/libfreetyped.a
-libPhysFS:     /Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/Libs/ASGE/lib/osx/libphysfsd.a
-libPhysFS++:   /Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/Libs/ASGE/lib/osx/libphysfscppd.a
-libGameEngine: /Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/Libs/ASGE/lib/osx/libGameEngined.a
+libGLEW:       /Users/jamie/portfolio/Breakout/Libs/ASGE/lib/osx/libGLEWd.a
+libGLFW:       /Users/jamie/portfolio/Breakout/Libs/ASGE/lib/osx/libglfw3d.a
+libFreetype:   /Users/jamie/portfolio/Breakout/Libs/ASGE/lib/osx/libfreetyped.a
+libPhysFS:     /Users/jamie/portfolio/Breakout/Libs/ASGE/lib/osx/libphysfsd.a
+libPhysFS++:   /Users/jamie/portfolio/Breakout/Libs/ASGE/lib/osx/libphysfscppd.a
+libGameEngine: /Users/jamie/portfolio/Breakout/Libs/ASGE/lib/osx/libGameEngined.a
 IOKit:        /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/IOKit.framework
 Cocoa:        /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Cocoa.framework
 CoreVideo:    /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreVideo.framework
+955af6e93edb0ca596b0725f543e84f8
 d9d2892913972ee3cc2fcf30fccc1219
-d9d2892913972ee3cc2fcf30fccc1219
+-- [download 0% complete]
+-- [download 1% complete]
+-- [download 2% complete]
+-- [download 3% complete]
+-- [download 4% complete]
+-- [download 5% complete]
+-- [download 6% complete]
+-- [download 7% complete]
+-- [download 8% complete]
+-- [download 9% complete]
+-- [download 10% complete]
+-- [download 11% complete]
+-- [download 12% complete]
+-- [download 13% complete]
+-- [download 14% complete]
+-- [download 15% complete]
+-- [download 16% complete]
+-- [download 17% complete]
+-- [download 18% complete]
+-- [download 19% complete]
+-- [download 20% complete]
+-- [download 21% complete]
+-- [download 22% complete]
+-- [download 23% complete]
+-- [download 24% complete]
+-- [download 25% complete]
+-- [download 26% complete]
+-- [download 27% complete]
+-- [download 28% complete]
+-- [download 29% complete]
+-- [download 30% complete]
+-- [download 31% complete]
+-- [download 32% complete]
+-- [download 33% complete]
+-- [download 34% complete]
+-- [download 35% complete]
+-- [download 36% complete]
+-- [download 37% complete]
+-- [download 38% complete]
+-- [download 39% complete]
+-- [download 40% complete]
+-- [download 41% complete]
+-- [download 42% complete]
+-- [download 43% complete]
+-- [download 44% complete]
+-- [download 45% complete]
+-- [download 46% complete]
+-- [download 47% complete]
+-- [download 48% complete]
+-- [download 49% complete]
+-- [download 50% complete]
+-- [download 51% complete]
+-- [download 52% complete]
+-- [download 53% complete]
+-- [download 54% complete]
+-- [download 55% complete]
+-- [download 56% complete]
+-- [download 57% complete]
+-- [download 58% complete]
+-- [download 59% complete]
+-- [download 60% complete]
+-- [download 61% complete]
+-- [download 62% complete]
+-- [download 63% complete]
+-- [download 64% complete]
+-- [download 65% complete]
+-- [download 66% complete]
+-- [download 67% complete]
+-- [download 68% complete]
+-- [download 69% complete]
+-- [download 70% complete]
+-- [download 71% complete]
+-- [download 72% complete]
+-- [download 73% complete]
+-- [download 74% complete]
+-- [download 75% complete]
+-- [download 76% complete]
+-- [download 77% complete]
+-- [download 78% complete]
+-- [download 79% complete]
+-- [download 80% complete]
+-- [download 81% complete]
+-- [download 82% complete]
+-- [download 83% complete]
+-- [download 84% complete]
+-- [download 85% complete]
+-- [download 86% complete]
+-- [download 87% complete]
+-- [download 88% complete]
+-- [download 89% complete]
+-- [download 90% complete]
+-- [download 91% complete]
+-- [download 92% complete]
+-- [download 93% complete]
+-- [download 94% complete]
+-- [download 95% complete]
+-- [download 96% complete]
+-- [download 97% complete]
+-- [download 98% complete]
+-- [download 99% complete]
+-- [download 100% complete]
 ClangFormat   CFE-NOTFOUND
 No itch.io user has been specified: disabling itch build targets
 PLEASE INSTALL PYTHON TO ALLOW BUILD SCRIPTS TO FUNCTION CORRECTLY
 -- Configuring done
 -- Generating done
--- Build files have been written to: /Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/cmake-build-debug
+-- Build files have been written to: /Users/jamie/portfolio/Breakout/cmake-build-debug

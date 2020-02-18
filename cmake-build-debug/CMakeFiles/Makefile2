@@ -59,10 +59,10 @@ RM = /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92
+CMAKE_SOURCE_DIR = /Users/jamie/portfolio/Breakout
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/cmake-build-debug
+CMAKE_BINARY_DIR = /Users/jamie/portfolio/Breakout/cmake-build-debug
 
 #=============================================================================
 # Target rules for target CMakeFiles/Breakout.dir
@@ -71,7 +71,7 @@ CMAKE_BINARY_DIR = /Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStev
 CMakeFiles/Breakout.dir/all:
 	$(MAKE) -f CMakeFiles/Breakout.dir/build.make CMakeFiles/Breakout.dir/depend
 	$(MAKE) -f CMakeFiles/Breakout.dir/build.make CMakeFiles/Breakout.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/cmake-build-debug/CMakeFiles --progress-num=1,2,3,4,5,6,7 "Built target Breakout"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/jamie/portfolio/Breakout/cmake-build-debug/CMakeFiles --progress-num=1,2,3,4,5,6,7 "Built target Breakout"
 .PHONY : CMakeFiles/Breakout.dir/all
 
 # Include target in all.
@@ -81,9 +81,9 @@ all: CMakeFiles/Breakout.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Breakout.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/cmake-build-debug/CMakeFiles 7
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/jamie/portfolio/Breakout/cmake-build-debug/CMakeFiles 7
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/Breakout.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/jamie/portfolio/Breakout/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/Breakout.dir/rule
 
 # Convenience name for target.
@@ -204,14 +204,14 @@ CI/datpak/CMake/preinstall:
 CI/datpak/CMake/CMakeFiles/Breakout+GameData.dir/all: CMakeFiles/Breakout.dir/all
 	$(MAKE) -f CI/datpak/CMake/CMakeFiles/Breakout+GameData.dir/build.make CI/datpak/CMake/CMakeFiles/Breakout+GameData.dir/depend
 	$(MAKE) -f CI/datpak/CMake/CMakeFiles/Breakout+GameData.dir/build.make CI/datpak/CMake/CMakeFiles/Breakout+GameData.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/cmake-build-debug/CMakeFiles --progress-num=8 "Built target Breakout+GameData"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/jamie/portfolio/Breakout/cmake-build-debug/CMakeFiles --progress-num=8 "Built target Breakout+GameData"
 .PHONY : CI/datpak/CMake/CMakeFiles/Breakout+GameData.dir/all
 
 # Build rule for subdir invocation for target.
 CI/datpak/CMake/CMakeFiles/Breakout+GameData.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/cmake-build-debug/CMakeFiles 8
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/jamie/portfolio/Breakout/cmake-build-debug/CMakeFiles 8
 	$(MAKE) -f CMakeFiles/Makefile2 CI/datpak/CMake/CMakeFiles/Breakout+GameData.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/jamie/portfolio/Breakout/cmake-build-debug/CMakeFiles 0
 .PHONY : CI/datpak/CMake/CMakeFiles/Breakout+GameData.dir/rule
 
 # Convenience name for target.
@@ -236,7 +236,7 @@ clean: CI/datpak/CMake/CMakeFiles/Breakout+GameData.dir/clean
 # No rule that depends on this can have commands that come from listfiles
 # because they might be regenerated.
 cmake_check_build_system:
-	$(CMAKE_COMMAND) -P /Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/cmake-build-debug/CMakeFiles/VerifyGlobs.cmake
+	$(CMAKE_COMMAND) -P /Users/jamie/portfolio/Breakout/cmake-build-debug/CMakeFiles/VerifyGlobs.cmake
 	$(CMAKE_COMMAND) -H$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 0
 .PHONY : cmake_check_build_system
 

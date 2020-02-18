@@ -1,2 +1,2 @@
 # Hashes of file build rules.
-bf8f651b94221df0394fd9fd2c4c3309 CI/datpak/CMake/CMakeFiles/Breakout+GameData
+82bd9abaff1ebf022b32f4f9153dc57d CI/datpak/CMake/CMakeFiles/Breakout+GameData

@@ -14,6 +14,13 @@ CMakeFiles/Breakout.dir/Source/Components/GameObject.cpp.o: ../Source/Components
 CMakeFiles/Breakout.dir/Source/Components/GameObject.cpp.o: ../Source/Components/GameObject.h
 CMakeFiles/Breakout.dir/Source/Components/GameObject.cpp.o: ../Source/Components/SpriteComponent.h
 
+CMakeFiles/Breakout.dir/Source/Components/SpriteComponent.cpp.o: ../Libs/ASGE/include/Engine/Colours.h
+CMakeFiles/Breakout.dir/Source/Components/SpriteComponent.cpp.o: ../Libs/ASGE/include/Engine/NonCopyable.h
+CMakeFiles/Breakout.dir/Source/Components/SpriteComponent.cpp.o: ../Libs/ASGE/include/Engine/Point2D.h
+CMakeFiles/Breakout.dir/Source/Components/SpriteComponent.cpp.o: ../Libs/ASGE/include/Engine/Renderer.h
+CMakeFiles/Breakout.dir/Source/Components/SpriteComponent.cpp.o: ../Libs/ASGE/include/Engine/Sprite.h
+CMakeFiles/Breakout.dir/Source/Components/SpriteComponent.cpp.o: ../Libs/ASGE/include/Engine/SpriteBounds.h
+CMakeFiles/Breakout.dir/Source/Components/SpriteComponent.cpp.o: ../Libs/ASGE/include/Engine/Texture.h
 CMakeFiles/Breakout.dir/Source/Components/SpriteComponent.cpp.o: ../Source/Utility/Rect.h
 CMakeFiles/Breakout.dir/Source/Components/SpriteComponent.cpp.o: ../Source/Components/SpriteComponent.cpp
 CMakeFiles/Breakout.dir/Source/Components/SpriteComponent.cpp.o: ../Source/Components/SpriteComponent.h

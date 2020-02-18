@@ -6,5 +6,5 @@ CXX_FLAGS = -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/Ma
 
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/Source -isystem /Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/Libs/ASGE/include 
+CXX_INCLUDES = -I/Users/jamie/portfolio/Breakout/Source -isystem /Users/jamie/portfolio/Breakout/Libs/ASGE/include 
 

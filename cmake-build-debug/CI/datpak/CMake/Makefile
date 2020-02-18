@@ -48,10 +48,10 @@ RM = /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92
+CMAKE_SOURCE_DIR = /Users/jamie/portfolio/Breakout
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/cmake-build-debug
+CMAKE_BINARY_DIR = /Users/jamie/portfolio/Breakout/cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -80,14 +80,14 @@ edit_cache/fast: edit_cache
 
 # The main all target
 all: cmake_check_build_system
-	cd /Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_progress_start /Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/cmake-build-debug/CMakeFiles /Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/cmake-build-debug/CI/datpak/CMake/CMakeFiles/progress.marks
-	cd /Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 CI/datpak/CMake/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/cmake-build-debug/CMakeFiles 0
+	cd /Users/jamie/portfolio/Breakout/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_progress_start /Users/jamie/portfolio/Breakout/cmake-build-debug/CMakeFiles /Users/jamie/portfolio/Breakout/cmake-build-debug/CI/datpak/CMake/CMakeFiles/progress.marks
+	cd /Users/jamie/portfolio/Breakout/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 CI/datpak/CMake/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/jamie/portfolio/Breakout/cmake-build-debug/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
 clean:
-	cd /Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 CI/datpak/CMake/clean
+	cd /Users/jamie/portfolio/Breakout/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 CI/datpak/CMake/clean
 .PHONY : clean
 
 # The main clean target
@@ -97,23 +97,23 @@ clean/fast: clean
 
 # Prepare targets for installation.
 preinstall: all
-	cd /Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 CI/datpak/CMake/preinstall
+	cd /Users/jamie/portfolio/Breakout/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 CI/datpak/CMake/preinstall
 .PHONY : preinstall
 
 # Prepare targets for installation.
 preinstall/fast:
-	cd /Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 CI/datpak/CMake/preinstall
+	cd /Users/jamie/portfolio/Breakout/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 CI/datpak/CMake/preinstall
 .PHONY : preinstall/fast
 
 # clear depends
 depend:
-	cd /Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/cmake-build-debug && $(CMAKE_COMMAND) -P /Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/cmake-build-debug/CMakeFiles/VerifyGlobs.cmake
-	cd /Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/cmake-build-debug && $(CMAKE_COMMAND) -H$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
+	cd /Users/jamie/portfolio/Breakout/cmake-build-debug && $(CMAKE_COMMAND) -P /Users/jamie/portfolio/Breakout/cmake-build-debug/CMakeFiles/VerifyGlobs.cmake
+	cd /Users/jamie/portfolio/Breakout/cmake-build-debug && $(CMAKE_COMMAND) -H$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
 .PHONY : depend
 
 # Convenience name for target.
 CI/datpak/CMake/CMakeFiles/Breakout+GameData.dir/rule:
-	cd /Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 CI/datpak/CMake/CMakeFiles/Breakout+GameData.dir/rule
+	cd /Users/jamie/portfolio/Breakout/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 CI/datpak/CMake/CMakeFiles/Breakout+GameData.dir/rule
 .PHONY : CI/datpak/CMake/CMakeFiles/Breakout+GameData.dir/rule
 
 # Convenience name for target.
@@ -123,7 +123,7 @@ Breakout+GameData: CI/datpak/CMake/CMakeFiles/Breakout+GameData.dir/rule
 
 # fast build rule for target.
 Breakout+GameData/fast:
-	cd /Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/cmake-build-debug && $(MAKE) -f CI/datpak/CMake/CMakeFiles/Breakout+GameData.dir/build.make CI/datpak/CMake/CMakeFiles/Breakout+GameData.dir/build
+	cd /Users/jamie/portfolio/Breakout/cmake-build-debug && $(MAKE) -f CI/datpak/CMake/CMakeFiles/Breakout+GameData.dir/build.make CI/datpak/CMake/CMakeFiles/Breakout+GameData.dir/build
 .PHONY : Breakout+GameData/fast
 
 # Help Target
@@ -146,7 +146,7 @@ help:
 # No rule that depends on this can have commands that come from listfiles
 # because they might be regenerated.
 cmake_check_build_system:
-	cd /Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/cmake-build-debug && $(CMAKE_COMMAND) -P /Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/cmake-build-debug/CMakeFiles/VerifyGlobs.cmake
-	cd /Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/cmake-build-debug && $(CMAKE_COMMAND) -H$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 0
+	cd /Users/jamie/portfolio/Breakout/cmake-build-debug && $(CMAKE_COMMAND) -P /Users/jamie/portfolio/Breakout/cmake-build-debug/CMakeFiles/VerifyGlobs.cmake
+	cd /Users/jamie/portfolio/Breakout/cmake-build-debug && $(CMAKE_COMMAND) -H$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 0
 .PHONY : cmake_check_build_system
 

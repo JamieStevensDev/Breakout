@@ -1,4 +1,4 @@
-# Install script for directory: /Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/CI/datpak
+# Install script for directory: /Users/jamie/portfolio/Breakout/CI/datpak
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -34,9 +34,9 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/cmake-build-debug/CI/datpak/Hooks/cmake_install.cmake")
-  include("/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/cmake-build-debug/CI/datpak/Configs/cmake_install.cmake")
-  include("/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/cmake-build-debug/CI/datpak/CMake/cmake_install.cmake")
+  include("/Users/jamie/portfolio/Breakout/cmake-build-debug/CI/datpak/Hooks/cmake_install.cmake")
+  include("/Users/jamie/portfolio/Breakout/cmake-build-debug/CI/datpak/Configs/cmake_install.cmake")
+  include("/Users/jamie/portfolio/Breakout/cmake-build-debug/CI/datpak/CMake/cmake_install.cmake")
 
 endif()
 

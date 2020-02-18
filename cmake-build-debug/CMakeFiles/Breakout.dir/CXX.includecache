@@ -96,21 +96,39 @@ Point2D.h
 NonCopyable.h
 ../Libs/ASGE/include/Engine/NonCopyable.h
 
-/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/Source/Components/GameObject.h
-SpriteComponent.h
-/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/Source/Components/SpriteComponent.h
+../Source/Utility/Rect.h
+
+../Source/Utility/Vector2.h
+
+/Users/jamie/portfolio/Breakout/Source/Components/GameObject.cpp
+GameObject.h
+/Users/jamie/portfolio/Breakout/Source/Components/GameObject.h
+Engine/Renderer.h
+-
 Utility/Vector2.h
-/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/Source/Components/Utility/Vector2.h
+-
+
+/Users/jamie/portfolio/Breakout/Source/Components/GameObject.h
+SpriteComponent.h
+/Users/jamie/portfolio/Breakout/Source/Components/SpriteComponent.h
+Utility/Vector2.h
+/Users/jamie/portfolio/Breakout/Source/Components/Utility/Vector2.h
 string
 -
 
-/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/Source/Components/SpriteComponent.h
+/Users/jamie/portfolio/Breakout/Source/Components/SpriteComponent.cpp
+SpriteComponent.h
+/Users/jamie/portfolio/Breakout/Source/Components/SpriteComponent.h
+Engine/Renderer.h
+-
+
+/Users/jamie/portfolio/Breakout/Source/Components/SpriteComponent.h
 Utility/Rect.h
-/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/Source/Components/Utility/Rect.h
+/Users/jamie/portfolio/Breakout/Source/Components/Utility/Rect.h
 Engine/Sprite.h
 -
 
-/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/Source/Game.cpp
+/Users/jamie/portfolio/Breakout/Source/Game.cpp
 string
 -
 Engine/DebugPrinter.h
@@ -124,25 +142,41 @@ Engine/Keys.h
 Engine/Sprite.h
 -
 Game.h
-/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/Source/Game.h
+/Users/jamie/portfolio/Breakout/Source/Game.h
 Utility/Rect.h
-/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/Source/Utility/Rect.h
+/Users/jamie/portfolio/Breakout/Source/Utility/Rect.h
 Utility/Vector2.h
-/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/Source/Utility/Vector2.h
+/Users/jamie/portfolio/Breakout/Source/Utility/Vector2.h
 
-/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/Source/Game.h
+/Users/jamie/portfolio/Breakout/Source/Game.h
 Engine/OGLGame.h
 -
 string
 -
 Components/GameObject.h
-/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/Source/Components/GameObject.h
+/Users/jamie/portfolio/Breakout/Source/Components/GameObject.h
 Utility/Rect.h
-/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/Source/Utility/Rect.h
+/Users/jamie/portfolio/Breakout/Source/Utility/Rect.h
 Utility/Vector2.h
-/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/Source/Utility/Vector2.h
+/Users/jamie/portfolio/Breakout/Source/Utility/Vector2.h
 
-/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/Source/Utility/Rect.h
+/Users/jamie/portfolio/Breakout/Source/Utility/Rect.cpp
+Rect.h
+/Users/jamie/portfolio/Breakout/Source/Utility/Rect.h
 
-/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/Source/Utility/Vector2.h
+/Users/jamie/portfolio/Breakout/Source/Utility/Rect.h
+
+/Users/jamie/portfolio/Breakout/Source/Utility/Vector2.cpp
+Vector2.h
+/Users/jamie/portfolio/Breakout/Source/Utility/Vector2.h
+math.h
+-
+
+/Users/jamie/portfolio/Breakout/Source/Utility/Vector2.h
+
+/Users/jamie/portfolio/Breakout/Source/main.cpp
+Game.h
+/Users/jamie/portfolio/Breakout/Source/Game.h
+iostream
+-
 

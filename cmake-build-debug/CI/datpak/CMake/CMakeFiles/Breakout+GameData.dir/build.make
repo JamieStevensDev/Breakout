@@ -43,10 +43,10 @@ RM = /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92
+CMAKE_SOURCE_DIR = /Users/jamie/portfolio/Breakout
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/cmake-build-debug
+CMAKE_BINARY_DIR = /Users/jamie/portfolio/Breakout/cmake-build-debug
 
 # Utility rule file for Breakout+GameData.
 
@@ -54,8 +54,8 @@ CMAKE_BINARY_DIR = /Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStev
 include CI/datpak/CMake/CMakeFiles/Breakout+GameData.dir/progress.make
 
 CI/datpak/CMake/CMakeFiles/Breakout+GameData:
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "creating data archive"
-	cd /Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/GameData && /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E tar cfv /Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/cmake-build-debug/bin/game.dat --format=7zip -- *
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/Users/jamie/portfolio/Breakout/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "creating data archive"
+	cd /Users/jamie/portfolio/Breakout/GameData && /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E tar cfv /Users/jamie/portfolio/Breakout/cmake-build-debug/bin/game.dat --format=7zip -- *
 
 Breakout+GameData: CI/datpak/CMake/CMakeFiles/Breakout+GameData
 Breakout+GameData: CI/datpak/CMake/CMakeFiles/Breakout+GameData.dir/build.make
@@ -68,10 +68,10 @@ CI/datpak/CMake/CMakeFiles/Breakout+GameData.dir/build: Breakout+GameData
 .PHONY : CI/datpak/CMake/CMakeFiles/Breakout+GameData.dir/build
 
 CI/datpak/CMake/CMakeFiles/Breakout+GameData.dir/clean:
-	cd /Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/cmake-build-debug/CI/datpak/CMake && $(CMAKE_COMMAND) -P CMakeFiles/Breakout+GameData.dir/cmake_clean.cmake
+	cd /Users/jamie/portfolio/Breakout/cmake-build-debug/CI/datpak/CMake && $(CMAKE_COMMAND) -P CMakeFiles/Breakout+GameData.dir/cmake_clean.cmake
 .PHONY : CI/datpak/CMake/CMakeFiles/Breakout+GameData.dir/clean
 
 CI/datpak/CMake/CMakeFiles/Breakout+GameData.dir/depend:
-	cd /Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92 /Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/CI/datpak/CMake /Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/cmake-build-debug /Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/cmake-build-debug/CI/datpak/CMake /Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/cmake-build-debug/CI/datpak/CMake/CMakeFiles/Breakout+GameData.dir/DependInfo.cmake --color=$(COLOR)
+	cd /Users/jamie/portfolio/Breakout/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/jamie/portfolio/Breakout /Users/jamie/portfolio/Breakout/CI/datpak/CMake /Users/jamie/portfolio/Breakout/cmake-build-debug /Users/jamie/portfolio/Breakout/cmake-build-debug/CI/datpak/CMake /Users/jamie/portfolio/Breakout/cmake-build-debug/CI/datpak/CMake/CMakeFiles/Breakout+GameData.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CI/datpak/CMake/CMakeFiles/Breakout+GameData.dir/depend
 

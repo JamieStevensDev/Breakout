@@ -1,4 +1,4 @@
-# Install script for directory: /Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/CI/datpak/Configs
+# Install script for directory: /Users/jamie/portfolio/Breakout/CI/datpak/Configs
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

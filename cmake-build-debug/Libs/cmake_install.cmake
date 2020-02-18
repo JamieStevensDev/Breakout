@@ -1,4 +1,4 @@
-# Install script for directory: /Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/Libs
+# Install script for directory: /Users/jamie/portfolio/Breakout/Libs
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

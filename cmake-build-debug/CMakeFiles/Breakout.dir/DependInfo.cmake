@@ -4,12 +4,12 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/Source/Components/GameObject.cpp" "/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/cmake-build-debug/CMakeFiles/Breakout.dir/Source/Components/GameObject.cpp.o"
-  "/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/Source/Components/SpriteComponent.cpp" "/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/cmake-build-debug/CMakeFiles/Breakout.dir/Source/Components/SpriteComponent.cpp.o"
-  "/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/Source/Game.cpp" "/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/cmake-build-debug/CMakeFiles/Breakout.dir/Source/Game.cpp.o"
-  "/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/Source/Utility/Rect.cpp" "/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/cmake-build-debug/CMakeFiles/Breakout.dir/Source/Utility/Rect.cpp.o"
-  "/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/Source/Utility/Vector2.cpp" "/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/cmake-build-debug/CMakeFiles/Breakout.dir/Source/Utility/Vector2.cpp.o"
-  "/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/Source/main.cpp" "/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/cmake-build-debug/CMakeFiles/Breakout.dir/Source/main.cpp.o"
+  "/Users/jamie/portfolio/Breakout/Source/Components/GameObject.cpp" "/Users/jamie/portfolio/Breakout/cmake-build-debug/CMakeFiles/Breakout.dir/Source/Components/GameObject.cpp.o"
+  "/Users/jamie/portfolio/Breakout/Source/Components/SpriteComponent.cpp" "/Users/jamie/portfolio/Breakout/cmake-build-debug/CMakeFiles/Breakout.dir/Source/Components/SpriteComponent.cpp.o"
+  "/Users/jamie/portfolio/Breakout/Source/Game.cpp" "/Users/jamie/portfolio/Breakout/cmake-build-debug/CMakeFiles/Breakout.dir/Source/Game.cpp.o"
+  "/Users/jamie/portfolio/Breakout/Source/Utility/Rect.cpp" "/Users/jamie/portfolio/Breakout/cmake-build-debug/CMakeFiles/Breakout.dir/Source/Utility/Rect.cpp.o"
+  "/Users/jamie/portfolio/Breakout/Source/Utility/Vector2.cpp" "/Users/jamie/portfolio/Breakout/cmake-build-debug/CMakeFiles/Breakout.dir/Source/Utility/Vector2.cpp.o"
+  "/Users/jamie/portfolio/Breakout/Source/main.cpp" "/Users/jamie/portfolio/Breakout/cmake-build-debug/CMakeFiles/Breakout.dir/Source/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 

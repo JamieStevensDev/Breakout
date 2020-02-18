@@ -1,4 +1,4 @@
-# Install script for directory: /Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92
+# Install script for directory: /Users/jamie/portfolio/Breakout
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -34,8 +34,8 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/cmake-build-debug/Libs/cmake_install.cmake")
-  include("/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/cmake-build-debug/CI/datpak/cmake_install.cmake")
+  include("/Users/jamie/portfolio/Breakout/cmake-build-debug/Libs/cmake_install.cmake")
+  include("/Users/jamie/portfolio/Breakout/cmake-build-debug/CI/datpak/cmake_install.cmake")
 
 endif()
 
@@ -47,5 +47,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/jamie/Documents/uni/ESD/i-want-to-break-free-JamieStevens92/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/jamie/portfolio/Breakout/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
